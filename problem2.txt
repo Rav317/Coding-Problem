@@ -1,1 +1,3 @@
 Finding the prime factorization of a number.
+
+Find the highest number that can divide an input number?
