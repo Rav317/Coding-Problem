@@ -1,0 +1,3 @@
+Find the golden ratio correct to 3 decimal palces.
+
+Sol: Create the fibonacci sequence and divide consecutive terms.
