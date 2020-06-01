@@ -7,3 +7,5 @@ Editorial:
 fi = fi-1 + fi-2
 
 GR = fi+1/ fi
+
+Try it out!!
